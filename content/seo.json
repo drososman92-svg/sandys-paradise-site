@@ -1,0 +1,13 @@
+{
+  "defaultLang": "en",
+  "languages": ["el", "en", "fr", "it", "de"],
+  "pages": {
+    "home": {
+      "el": {"title": "Sandy’s Paradise | Ξενοδοχείο με Πισίνα στην Περίσσα Σαντορίνη", "description": "Ξενοδοχείο στην Περίσσα Σαντορίνης, 10 λεπτά με τα πόδια από την παραλία. Φωτεινά δωμάτια & σουίτες, μεγάλη πισίνα, continental πρωινό, pool bar και δωρεάν parking."},
+      "en": {"title": "Sandy’s Paradise | Hotel with Pool in Perissa Santorini", "description": "Hotel in Perissa Santorini, a 10-minute walk to Perissa Beach. Bright rooms & suites, large pool area, continental breakfast, pool bar and free parking."},
+      "fr": {"title": "Sandy’s Paradise | Hôtel avec piscine à Perissa Santorin", "description": "Hôtel à Perissa Santorin, à 10 minutes à pied de la plage. Chambres lumineuses, grande piscine, petit-déjeuner continental, pool bar et parking gratuit."},
+      "it": {"title": "Sandy’s Paradise | Hotel con piscina a Perissa Santorini", "description": "Hotel a Perissa Santorini, a 10 minuti a piedi dalla spiaggia. Camere luminose, grande piscina, colazione continentale, pool bar e parcheggio gratuito."},
+      "de": {"title": "Sandy’s Paradise | Hotel mit Pool in Perissa Santorin", "description": "Hotel in Perissa Santorin, 10 Gehminuten vom Strand entfernt. Helle Zimmer, großer Poolbereich, kontinentales Frühstück, Pool Bar und kostenloses Parken."}
+    }
+  }
+}
